@@ -11,6 +11,6 @@ Site responsivo realizado conforme layout enviado pela empresa, para a vaga de e
 Site realizado: 
 
 
-![VERSÃO DESKTOP](assets_img/desktop.png =250x) 
+![VERSÃO DESKTOP](assets_img/desktop.png) 
 
-![VERSÃO MOBILE](assets_img/mobile.png =250x)
+![VERSÃO MOBILE](assets_img/mobile.png)
