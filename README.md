@@ -1,16 +1,8 @@
 
-## *Projeto realizado para teste de Estagio FrontEnd*
+# Projeto realizado para teste de Estagio Front-End
  
-Site responsivo realizado conforme layout enviado pela empresa, para a vaga de estagio em Front-end.
-
-## Utilizado:
-* HTML
-* CSS
+Site desenvolvido conforme layout enviado pela empresa.
+Responsivo para web e mobile, utilizado HTML e CSS.
 
 
-Site realizado: 
-
-
-![VERSÃO DESKTOP](assets_img/desktop.png) 
-
-![VERSÃO MOBILE](assets_img/mobile.png)
+<img height="900"  src="assets_img/desktop.png">
